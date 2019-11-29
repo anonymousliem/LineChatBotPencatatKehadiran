@@ -1,0 +1,177 @@
+[15-Feb-2019 07:40:15 Asia/Jakarta] Method not allowed
+[23-Feb-2019 21:17:36 Asia/Jakarta] PHP Fatal error:  Uncaught Unirest\Exception: Empty reply from server in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php:479
+Stack trace:
+#0 /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php(236): Unirest\Request::send('GET', 'https://transla...', NULL, Array, NULL, NULL)
+#1 /home/pusn8562/public_html/botbuatbemundip/bot.php(165): Unirest\Request::get('https://transla...')
+#2 /home/pusn8562/public_html/botbuatbemundip/bot.php(444): translate('sedih')
+#3 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php on line 479
+[23-Feb-2019 21:40:49 Asia/Jakarta] PHP Fatal error:  Uncaught Unirest\Exception: Empty reply from server in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php:479
+Stack trace:
+#0 /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php(236): Unirest\Request::send('GET', 'https://transla...', NULL, Array, NULL, NULL)
+#1 /home/pusn8562/public_html/botbuatbemundip/bot.php(165): Unirest\Request::get('https://transla...')
+#2 /home/pusn8562/public_html/botbuatbemundip/bot.php(444): translate('vandita+semok')
+#3 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php on line 479
+[23-Feb-2019 22:23:23 Asia/Jakarta] PHP Fatal error:  Uncaught Unirest\Exception: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to translate.yandex.net:443  in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php:479
+Stack trace:
+#0 /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php(236): Unirest\Request::send('GET', 'https://transla...', NULL, Array, NULL, NULL)
+#1 /home/pusn8562/public_html/botbuatbemundip/bot.php(165): Unirest\Request::get('https://transla...')
+#2 /home/pusn8562/public_html/botbuatbemundip/bot.php(444): translate('vandita+lapar')
+#3 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php on line 479
+[23-Feb-2019 22:24:07 Asia/Jakarta] PHP Fatal error:  Uncaught Unirest\Exception: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to translate.yandex.net:443  in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php:479
+Stack trace:
+#0 /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php(236): Unirest\Request::send('GET', 'https://transla...', NULL, Array, NULL, NULL)
+#1 /home/pusn8562/public_html/botbuatbemundip/bot.php(165): Unirest\Request::get('https://transla...')
+#2 /home/pusn8562/public_html/botbuatbemundip/bot.php(444): translate('vandita+lapar+d...')
+#3 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php on line 479
+[23-Feb-2019 22:34:30 Asia/Jakarta] PHP Fatal error:  Uncaught Unirest\Exception: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to translate.yandex.net:443  in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php:479
+Stack trace:
+#0 /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php(236): Unirest\Request::send('GET', 'https://transla...', NULL, Array, NULL, NULL)
+#1 /home/pusn8562/public_html/botbuatbemundip/bot.php(165): Unirest\Request::get('https://transla...')
+#2 /home/pusn8562/public_html/botbuatbemundip/bot.php(444): translate('cuacanya+panas')
+#3 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php on line 479
+[24-Feb-2019 18:54:18 Asia/Jakarta] PHP Fatal error:  Uncaught Unirest\Exception: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to translate.yandex.net:443  in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php:479
+Stack trace:
+#0 /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php(236): Unirest\Request::send('GET', 'https://transla...', NULL, Array, NULL, NULL)
+#1 /home/pusn8562/public_html/botbuatbemundip/bot.php(165): Unirest\Request::get('https://transla...')
+#2 /home/pusn8562/public_html/botbuatbemundip/bot.php(444): translate('hangge+jelek')
+#3 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/unirest-php-master/src/Unirest/Request.php on line 479
+[17-Jun-2019 15:35:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:35:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:35:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 232
+[17-Jun-2019 15:35:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:35:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:36:48 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:36:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:37:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:37:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:37:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 232
+[17-Jun-2019 15:41:20 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:41:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:41:50 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:41:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:42:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:42:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:42:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 232
+[17-Jun-2019 15:44:52 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:44:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:45:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pusn8562_coba'@'localhost' to database 'pusn8562_coba' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 12
+[17-Jun-2019 15:45:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 14
+[17-Jun-2019 15:45:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 232
+[17-Jun-2019 17:48:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:376
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 376
+[17-Jun-2019 17:48:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:376
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 376
+[17-Jun-2019 17:51:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:376
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 376
+[17-Jun-2019 17:53:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:375
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 375
+[17-Jun-2019 17:53:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:375
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 375
+[17-Jun-2019 17:53:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:375
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 375
+[17-Jun-2019 17:54:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function pushMessage() in /home/pusn8562/public_html/botbuatbemundip/bot.php:375
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 375
+[17-Jun-2019 18:13:50 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 375
+[17-Jun-2019 19:11:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 394
+[17-Jun-2019 19:14:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 394
+[17-Jun-2019 20:58:15 Asia/Jakarta] PHP Warning:  Missing argument 2 for asde(), called in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 383 and defined in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 94
+[17-Jun-2019 20:59:12 Asia/Jakarta] PHP Warning:  Missing argument 2 for asde(), called in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 383 and defined in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 94
+[17-Jun-2019 21:23:50 Asia/Jakarta] PHP Fatal error:  Cannot use [] for reading in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 68
+[17-Jun-2019 21:47:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 416
+[17-Jun-2019 21:47:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 416
+[17-Jun-2019 21:47:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 416
+[18-Jun-2019 14:29:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 492
+[18-Jun-2019 14:29:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 492
+[18-Jun-2019 16:14:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 509
+[18-Jun-2019 16:14:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 509
+[18-Jun-2019 16:14:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'INSERT' (T_STRING) in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 509
+[19-Jun-2019 19:36:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 654
+[19-Jun-2019 19:36:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 654
+[19-Jun-2019 19:37:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 654
+[19-Jun-2019 19:37:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 654
+[19-Jun-2019 19:39:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:39:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:40:12 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:42:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:42:57 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:43:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:43:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:46:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:46:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 19:47:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_num_row() in /home/pusn8562/public_html/botbuatbemundip/bot.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 653
+[19-Jun-2019 22:06:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 421
+[19-Jun-2019 22:06:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'title' (T_STRING), expecting ')' in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 421
+[19-Jun-2019 22:33:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/pusn8562/public_html/botbuatbemundip/bot.php:549
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 549
+[19-Jun-2019 22:34:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/pusn8562/public_html/botbuatbemundip/bot.php:549
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 549
+[19-Jun-2019 22:36:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/pusn8562/public_html/botbuatbemundip/bot.php:549
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 549
+[19-Jun-2019 22:36:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/pusn8562/public_html/botbuatbemundip/bot.php:549
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 549
+[19-Jun-2019 22:40:56 Asia/Jakarta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 554
+[19-Jun-2019 22:41:19 Asia/Jakarta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 554
+[19-Jun-2019 22:41:24 Asia/Jakarta] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 554
+[19-Jun-2019 22:55:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 961
+[19-Jun-2019 22:56:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 961
+[19-Jun-2019 22:56:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/pusn8562/public_html/botbuatbemundip/bot.php:557
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 557
+[19-Jun-2019 22:56:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/pusn8562/public_html/botbuatbemundip/bot.php:557
+Stack trace:
+#0 {main}
+  thrown in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 557
+[15-Aug-2019 11:17:07 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 1030
+[15-Aug-2019 11:17:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 1030
+[15-Aug-2019 11:17:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 1030
+[15-Aug-2019 11:17:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 1030
+[05-Sep-2019 14:56:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 1035
+[05-Sep-2019 14:56:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/pusn8562/public_html/botbuatbemundip/bot.php on line 1035
+[29-Nov-2019 14:22:54 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:22:56 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:23:16 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:24:26 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:24:29 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:24:34 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:25:44 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:53 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:54 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:54 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:55 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:55 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:55 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:55 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 14:26:56 Asia/Jakarta] Invalid signature value
+[29-Nov-2019 20:16:30 Asia/Jakarta] Method not allowed

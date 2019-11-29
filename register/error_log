@@ -1,0 +1,2 @@
+[29-Nov-2019 14:40:30 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pusn8562/public_html/botevent/register/proses_register.php:36) in /home/pusn8562/public_html/botevent/register/proses_register.php on line 38
+[29-Nov-2019 14:44:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE), expecting ',' or ';' in /home/pusn8562/public_html/botevent/register/proses_register.php on line 37
