@@ -6,8 +6,8 @@ $con = mysqli_connect("localhost", "pusn8562_eventregister", "eventregister", "p
 
 $query = mysqli_query($con,"SELECT * FROM anjay ORDER BY id"); //SESUAIKAN DENGAN NAMA TABLE KALIAN, ORDER BY ID ADALAH OPSIONAL KARENA DI DB GW MAKE ROW ID JUGA (OPSIONAL),
 
-$channelAccessToken = 'dPE0STKlAnvE8Uk5VYdQVRoFKb4pF4i81PsqkEN/ibfOo1Xuy+B2tz29vy0DAIeBBN4avJDr5MRCMVAEUfaJY47U2C2Ue5ilIcP5rlbDuaBX+4MMc3TW42GW7GI6/ndn7cDh8sgGWT9Ek630C+c5ywdB04t89/1O/w1cDnyilFU='; 
-$channelSecret = '3f2250053d085fc468da3e0e90536a00'; 
+$channelAccessToken = '#####################'; 
+$channelSecret = '###################'; 
 
 
 
